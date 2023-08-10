@@ -3,7 +3,7 @@
 ## 목차
   - [개요](#개요) 
   - [사용 기술](#사용-기술)
-  - [화면 구성](#화면-구성)
+  - [화면 구성](#주요-화면-구성)
   - [주요 기능](#주요-기능)
 
 <hr>
@@ -36,7 +36,8 @@
 
 #### Front-End
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
-![Jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Jquery](https://img.shields.io/badge/Jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-FA6423?style=for-the-badge&logo=sparkpost&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
 
 #### Back-End
@@ -62,6 +63,22 @@
 
 <hr>
 
-## 화면 구성
+## 주요 화면 구성
+
+| 졸업 현황 페이지 |  졸업 신청 페이지   |
+| :-------------------------------------------: | :------------: |
+|  <img width="500" height="400" src="https://raw.githubusercontent.com/kw99j10/WebDesign-3-2/ab391d5adb8b128176b0b73bf327ef896767adfe/webapp/WebContent/user-status.png"/> |  <img width="500" src="https://raw.githubusercontent.com/kw99j10/WebDesign-3-2/ab391d5adb8b128176b0b73bf327ef896767adfe/webapp/WebContent/user-apply.png"/>|  
+
+|  졸업자 조회 페이지  |  사용자 관리 페이지   |  
+| :-------------------------------------------: | :------------: |
+| <img width="500" height="400" src="https://raw.githubusercontent.com/kw99j10/WebDesign-3-2/ab391d5adb8b128176b0b73bf327ef896767adfe/webapp/WebContent/admin-view.png"/>   |  <img width="500" src="https://raw.githubusercontent.com/kw99j10/WebDesign-3-2/ab391d5adb8b128176b0b73bf327ef896767adfe/webapp/WebContent/admin-management.jpg"/>     |
+
+<hr>
 
 ## 주요 기능
+
+  ### 관리자
+    
+    ####
+
+  ### 사용
